@@ -106,9 +106,8 @@ To quit the program simply close the window.
 When you are done, submit the assignment to the Marmoset server using the Terminal window in CLion (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS370_Assign01_Fa23</b>
-CS370\_Fa23/CS370_Assign01\_Fa23
-$ <b>make submit</b>
+% <b>cd CS370_Assign01_Fa23</b>
+CS370_Fa23/CS370_Assign01_Fa23 % <b>make submit</b>
 </pre>
 
 Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
