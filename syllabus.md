@@ -13,9 +13,9 @@ Instructors:
 
 **Section 101 (8am):** Dr. David Babcock <dbabcock@ycp.edu>
 
-Office Hours: 
+Office Hours (KEC117A): 
 
-Dr. Babcock: TBD, or by appointment
+Dr. Babcock: M 1-3PM, T 2-3PM, W 1-2PM, R 11AM-12PM, or by appointment
 
 Class times:
 
@@ -191,6 +191,8 @@ York College recognizes the importance of effective communication in all discipl
 ### Student Accessibility Services
 
 York College of Pennsylvania offers a variety of academic accommodations to students with documented disabilities to ensure their success. To request accommodations, please contact Student Accessibility Services at (717) 815.1717 or <sas@ycp.edu>. Student Accessibility Services will discuss the confidential process of requesting accessibility services and establish the accommodations for which the student is eligible.
+
+There is a possibility that during this course, classroom lectures may be recorded in accordance with York College of Pennsylvania policies for Student Accessibility Services.
 
 ## Disclaimer
 
