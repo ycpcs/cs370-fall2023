@@ -119,4 +119,6 @@ You will need to add the following line to your **CMakeLists.txt** file in the *
 	add_subdirectory("CS370_Lab16_Shadow_Solution" "CS370_Lab16_Shadow_Solution/bin")
 ```
 
+> <img src="images/lab16/mirrorShadowMesh.png" alt="Mirror Shadow Mesh Window" height="500"/>
+
 Next we will investigate how to apply multiple textures to an object.

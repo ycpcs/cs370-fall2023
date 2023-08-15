@@ -162,4 +162,6 @@ You will need to add the following line to your **CMakeLists.txt** file in the *
 	add_subdirectory("CS370_Lab15_MultiLight_Solution" "CS370_Lab15_MultiLight_Solution/bin")
 ```
 
+> <img src="images/lab15/multiShadowMesh.png" alt="Multi Shadow Mesh Window" height="500"/>
+
 Next we will investigate how to add mirrors into the scene.

@@ -61,7 +61,7 @@ where the *vertices*, *uvs*, and *normal* vectors will be the data loaded from t
 
 ### Tasks
 
-- Add code to **load\_bump\_model()** to compute the tangents and bitangents *after loading the model* using the **computeTangentBasis()** function.
+- Add code to **load\_bump\_object()** to compute the tangents and bitangents *after loading the model* using the **computeTangentBasis()** function.
 
 **Note:** We have corresponding attribute buffers for the tangent and bitangent vectors that will correspond to additional shader variables in the vertex shader.
 
