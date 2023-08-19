@@ -9,7 +9,8 @@ All written portions should be submitted to Canvas *after self-grading*. All pro
 
 > Assignment | File | Written Due | Program Due | Solutions |
 > ---------- | ---- | ----------- | ----------- | --------- |
-> [Assignment 1: Don Quixote](assign01.html)       | [CS370\_Assign01\_Fa23.zip](src/CS370_Assign01_Fa23_.zip) | **Sept 7**  | **Sept 11** |  |
+> [Assignment 1: Don Quixote](assign01.html)       | [CS370\_Assign01\_Fa23.zip](src/CS370_Assign01_Fa23.zip) | **Sept 7**  | **Sept 11** |  |
+> [Assignment 2: Rollin Train](assign02.html)      | [CS370\_Assign02\_Fa23.zip](src/CS370_Assign02_Fa23.zip) | **Sept 21** | **Milestone 1: Sept 18** <br /> **Milestone 2: Sept 25** | |
 
 <!--
 > [Assignment 2: Rollin Train](assign02.html)      | [CS370_Assign02.zip](src/CS370_Assign02.zip) | **Sept 23** | **Milestone 1: Sept 20** <br /> **Milestone 2: Sept 27** | [assign02sol.pdf](sol/assign02sol.pdf) |
