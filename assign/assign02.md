@@ -30,6 +30,7 @@ Finally, select **Reload changes** which should build the project and add **Roll
 1.  Typically when we draw 3D objects on paper (or the board) we draw the *x* and *y* axes at 90 degrees (*x* axis pointing right and *y* axis pointing up). We then represent the *z* axis (which would be coming out of the board) by a line at -135 degrees from the *x* axis (diagonally down towards the left). This type of projection is known as an *oblique* projection. Determine the projection matrix that would render the objects in this fashion.
 
 	> <img src="images/assign02/obliqueaxis.png" alt="Oblique Axis Diagram" height="300"/>
+	>
 	> **Hint:** In order to achieve this projection, we need to find a *transformation matrix* that takes the standard axes and converts them as follows:
 	>
     > <img src="images/assign02/oblique1.png" alt="Oblique Axes Vectors" height="50"/>
