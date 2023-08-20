@@ -124,14 +124,14 @@ Adjusting the camera to look up/down can be done by adjusting the *y* component 
 
 The program will be graded based on the number of features implemented along with the creativity used to implement each one.
 
--   Geometry: 15\%
--   Animation: 15\%
--   Lighting: 10\%
--   Transparency: 5\%
--   Texture mapping: 15\%
--   Environment mapping (mirror): 5\%
--   UI controls: 5\%
--   Creativity and advanced effects: 30\%
+-   Geometry: 15%
+-   Animation: 15%
+-   Lighting: 10%
+-   Transparency: 5%
+-   Texture mapping: 15%
+-   Environment mapping (mirror): 5%
+-   UI controls: 5%
+-   Creativity and advanced effects: 30%
 
 ## Compiling and running the program
 
