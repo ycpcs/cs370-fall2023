@@ -130,7 +130,7 @@ When you are done, submit the assignment to the Marmoset server using the Termin
 
 <pre>
 $ <b>cd CS370_Assign03_Fa23</b>
-CS370\_Fa23/CS370_Assign03_Fa23
+CS370_Fa23/CS370_Assign03_Fa23
 $ <b>make submit_ms1</b>
 </pre>
 
@@ -138,7 +138,7 @@ or
 
 <pre>
 $ <b>cd CS370_Assign03_Fa23</b>
-CS370\_Fa23/CS370_Assign03_Fa23
+CS370_Fa23/CS370_Assign03_Fa23
 $ <b>make submit_ms2</b>
 </pre>
 
