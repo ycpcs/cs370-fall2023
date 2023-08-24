@@ -51,7 +51,7 @@ In the popup dialog, in the **Toolchain** drop down simply leave the default for
 
 Then click **OK** to exit the dialog boxes. CLion will simply use the built-in OSX Terminal application.
 
-Next select **CMake -> Settings** from the menubar.
+Next, in the upper-right corner, select the gear icon and **Settings** from the menubar.
 
 > <img src="img/CLionMacSettings.png" alt="CLion Mac Select Settings Window" height="400"/>
 
