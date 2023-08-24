@@ -53,7 +53,7 @@ Then click **OK** to exit the dialog boxes. CLion will simply use the built-in O
 
 Next, in the upper-right corner, select the gear icon and **Settings** from the menubar.
 
-> <img src="img/CLionMacSettings.png" alt="CLion Mac Select Settings Window" height="400"/>
+> <img src="img/CLionMacSettings1.png" alt="CLion Mac Select Settings Window" height="400"/>
 
 In the **Settings** dialog, select the **Build, Execution, Deployment->CMake** option, and expand the **Cache variables** section.
 
