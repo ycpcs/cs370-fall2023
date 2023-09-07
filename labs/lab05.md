@@ -73,7 +73,7 @@ glEnable(GL_CULL_FACE);
 
 > <img src="images/lab05/cubevert.png" alt="Cube Vertices" height="200"/>
 
-At this point you should be able to render the scene but it may appear odd since the cube faces are as large as the view window. Note what happens if you do not enable the depth test or back face culling.
+At this point you should be able to render the scene with a cube that has sides that are 1 unit in length. Note what happens if you do not enable the depth test or back face culling.
 
 ## Orthographic Projection
 
