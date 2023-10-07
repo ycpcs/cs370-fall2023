@@ -75,7 +75,7 @@ You can also combine several meshes together, which is necessary for our model l
 
 ## Exporting a Mesh
 
-To export the mesh, from the menu bar select **File->Export->Wavefront (.obj)**
+To export the mesh, from the menu bar select **File->Export->Wavefront (.obj) (legacy)**
 
 > <img src="images/lab12/BlenderExport.png" alt="Blender Export Window" height="400"/>
 
