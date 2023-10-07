@@ -79,7 +79,7 @@ To export the mesh, from the menu bar select **File->Export->Wavefront (.obj) (l
 
 > <img src="images/lab12/BlenderExport.png" alt="Blender Export Window" height="400"/>
 
-Select the location where you want to export the file and the name for the file. In the lower right panel, expand the Geometry tab and make sure the selections match the figure below, i.e. only **Apply Modifiers**, **Write Normals**, **Include UVs**, and **Triangulate Faces** are checked. This will produce a file that can be imported by the basic model loader we are using.
+Select the location where you want to export the file and the name for the file. In the lower right panel, make sure in the Transform tab that Up is set to **Y up**. Then expand the Geometry tab and make sure the selections match the figure below, i.e. only **Apply Modifiers**, **Write Normals**, **Include UVs**, and **Triangulate Faces** are checked, i.e. **UNCHECK** **Write Materials**. This will produce a file that can be imported by the basic model loader we are using.
 
 > <img src="images/lab12/BlenderSettings.png" alt="Blender Settings Window" height="300"/>
 
