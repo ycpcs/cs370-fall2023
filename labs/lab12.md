@@ -51,7 +51,7 @@ Then to add a new mesh (at the origin) simply hit \<Shift\>-A which should pop u
 
 After the mesh has been added, there may be a dialog box in the lower left portion of the main window that will allow configuration of the added mesh typically including the default size, location, and orientation.
 
-Some additional meshes can be obtained by selecting the drop down menu in the lower right window, choosing **Data->Preferences->Add-ons->Add Mesh: Extra Objects**.
+Some additional meshes can be obtained by choosing **Edit->Preferences->Add-ons->Add Mesh: Extra Objects** from the menu bar.
 
 ### Multiple Meshes
 
