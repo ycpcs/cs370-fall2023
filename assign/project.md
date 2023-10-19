@@ -118,6 +118,30 @@ Since *eye* has changed, *center* will need to be updated as described above.
 
 Adjusting the camera to look up/down can be done by adjusting the *y* component of *center* with an elevation angle (typically *without* adjusting the *y* component of *eye*).
 
+Thus the steps to implement the first person camera are:
+
+### Global variables
+
+> Set *eye* and θ to initially position the camera in the room and set the angle it is facing
+
+### Main
+
+> Compute *center* based on *eye* and θ using the equations above
+
+### Keyboard callback
+
+**if A/D**
+
+> Update θ
+
+**if W/S**
+
+> Compute *dir* using the equation above
+>
+> Update *eye* using the equation above
+
+Update *center* using the equations above
+
 ## Grading Criteria
 
 **The program MUST compile to receive any credit** (so develop incrementally).
