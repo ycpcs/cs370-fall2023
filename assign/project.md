@@ -120,15 +120,15 @@ Adjusting the camera to look up/down can be done by adjusting the *y* component 
 
 Thus the steps to implement the first person camera are:
 
-### Global variables
+#### Global variables
 
 > Set *eye* and θ to initially position the camera in the room and set the angle it is facing
 
-### Main
+#### Main
 
 > Compute *center* based on *eye* and θ using the equations above
 
-### Keyboard callback
+#### Keyboard callback
 
 **if A/D**
 
